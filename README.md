@@ -1,6 +1,6 @@
-Bab 3 Tugas 1
+Bab 3 Tugas 2 sub nomor 1
 
-Soal "Carilah nilai a, c dan m pada LCM  agar dalam 100 kali pembangkitan  bilangan acak belum terlihat adanya  pengulangan"
+Soal "Bilangan acak ganjil antara 0 s/d 10"
 
 materi:
 [Bab 3 - Bilangan Acak](https://drive.google.com/open?id=1-f4zRxHnlvbltI8nQMpEdYivGiVdWVBO)
