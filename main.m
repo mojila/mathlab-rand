@@ -1,4 +1,4 @@
-disp("Tugas 2");
+disp("Tugas 2 sub nomor 1");
 
 x = 1:10;
 
