@@ -7,10 +7,10 @@ function odd = generate_odd()
         return;
     end
     
-    odd = generate();
+    odd = generate_odd();
 end
 
-generated_odd_number = generate();
+generated_odd_number = generate_odd();
 
 disp("Hasil Generator Angka Ganjil 1-10");
 disp(generated_odd_number);
