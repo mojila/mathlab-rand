@@ -1,4 +1,4 @@
-disp("Tugas 2 sub nomor 2");
+disp("Tugas 2 sub nomor 1");
 
 function odd = generate_odd()
     var2 = floor(rand(1)*10)
