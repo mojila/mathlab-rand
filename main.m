@@ -1,9 +1,16 @@
-disp("Tugas 2 sub nomor 1");
+disp("Tugas 2 sub nomor 2");
 
-x = 1:10;
+function odd = generate_odd()
+    var2 = floor(rand(1)*10)
+    if rem(var2, 2) == 1
+        odd = var2;
+        return;
+    end
+    
+    odd = generate();
+end
 
-odd = rem(x,2) == 1;
+generated_odd_number = generate();
 
-getOddNumbers = x(odd);
-
-getOddNumbers
+disp("Hasil Generator Angka Ganjil 1-10");
+disp(generated_odd_number);
