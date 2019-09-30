@@ -1,4 +1,4 @@
-Bab 3 Tugas 2 sub nomor 1
+Bab 3 Tugas 2 sub nomor 2
 
 Soal "Bilangan acak ganjil antara 0 s/d 10"
 
