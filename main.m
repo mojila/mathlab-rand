@@ -8,6 +8,7 @@ function odd = generate_odd()
     end
     
     odd = generate_odd();
+    return;
 end
 
 generated_odd_number = generate_odd();
